@@ -1,4 +1,9 @@
-# chat-server-express
-## Este un proyecto pequeño donde se hace uso de la biblioteca socket.io para la creación de un chat. Para correr el proyecto:
-## npm install
-## node index.js
+# Chat server con express
+
+_Este un proyecto pequeño donde se hace uso de la biblioteca socket.io para la creación de un chat._
+
+### Instalación 🔧
+
+_npm install_
+
+_node index.js_
