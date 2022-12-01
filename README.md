@@ -4,6 +4,6 @@ _Este un proyecto pequeño donde se hace uso de la biblioteca socket.io para la 
 
 ### Instalación 🔧
 
-_npm install_
+* npm install
 
-_node index.js_
+* node index.js
