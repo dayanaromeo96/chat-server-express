@@ -5,13 +5,13 @@ _Este un proyecto pequeño donde se hace uso de la biblioteca socket.io para la 
 ### Instalación 🔧
 
 ```
- npm install - Para instalar las dependencias de node
+ npm install
 ```
 
 _Y para correrlo_
 
 ```
-* node index.js
+node index.js
 ```
 
 
